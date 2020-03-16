@@ -33,7 +33,7 @@ Next install [npm](https://www.npmjs.com/get-npm). Assuming that you have [Node 
 `npm i` 
 this will install all the required  packages for the app. <br>
 2. Next type: 
-`expo start --tunnel`
+`expo start --tunnel --clear`
 
 A QR code will now pop up, scan the QR code with the camera from your phone. The app will now be running on your phone. 
 
