@@ -37,3 +37,6 @@ this will install all the required  packages for the app. <br>
 
 A QR code will now pop up, scan the QR code with the camera from your phone. The app will now be running on your phone. 
 
+### Bugs
+Android phones might have a few issues with spacing and navigation due to some React Native features being developed mainly for Apple products
+
