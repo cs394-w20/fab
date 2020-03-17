@@ -26,7 +26,7 @@ If you follow the intructions you will come across a [firebase config object](ht
 Next install [npm](https://www.npmjs.com/get-npm). Assuming that you have [Node 10 LTS](https://nodejs.org/en/download/) or greater installed, use npm to install the Expo CLI command line utility:
 `npm install -g expo-cli` 
 
-# Launching App
+## Launching App
 1. Download the [expo app](https://expo.io/tools) on your phone. 
 
 2. Using your terminal/command prompt navigate to the directory with all the code then type:
@@ -35,8 +35,8 @@ this will install all the required  packages for the app. <br>
 2. Next type: 
 `expo start --tunnel --clear`
 
-A QR code will now pop up, scan the QR code with the camera from your phone. The app will now be running on your phone. 
+A QR code will now pop up. If you have an android scan the QR code using the expo app. If you have an iPhone use your camera to scan the QR code. The app will now be running on your phone. 
 
-### Bugs
+## Bugs
 Android phones might have a few issues with spacing and navigation due to some React Native features being developed mainly for Apple products
 
